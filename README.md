@@ -1,3 +1,3 @@
 # EDA-and-Feature-Engineering-on-black-friday-dataset
- peformed EDA and featre selection. then prepare the data for predictions 
+ peformed EDA and feature selection. then prepare the data for predictions 
 data modeling, EDA, Feature selection, cleaning dataset,
